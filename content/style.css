@@ -1,0 +1,59 @@
+#map{
+    width: 800px;
+    height: 700px;
+    margin: 20px;
+}
+
+.margin-right{
+    margin-right: 50px;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.custom-error{
+    margin: 0 auto;
+    width: 700px;
+    padding: 20px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.custom-error a:link, .custom-error a:visited{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.active{
+    padding: 10px 5px 10px 5px;
+    background-color: #333;
+    border: 1px solid #333;
+    border-radius: 10px;
+    color: #fff;
+
+}
+
+a.active:link, a.active:visited{
+    color: #fff;
+}
+
+.valueLink{
+    padding: 10px 5px 10px 5px;
+    background-color: #eee;
+    border: 1px solid #333;
+    border-radius: 10px;
+}
+
+a.valueLink:link, a.valueLink:visited{
+    color: #000;
+}
+
+.valueContainer{
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+
+.spanClass{
+    margin-left: 10px;
+}
